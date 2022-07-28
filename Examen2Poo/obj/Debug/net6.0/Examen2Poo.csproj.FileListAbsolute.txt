@@ -1,0 +1,15 @@
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\bin\Debug\net6.0\Examen2Poo.exe
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\bin\Debug\net6.0\Examen2Poo.deps.json
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\bin\Debug\net6.0\Examen2Poo.runtimeconfig.json
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\bin\Debug\net6.0\Examen2Poo.dll
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\bin\Debug\net6.0\Examen2Poo.pdb
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\obj\Debug\net6.0\Examen2Poo.csproj.AssemblyReference.cache
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\obj\Debug\net6.0\Examen2Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\obj\Debug\net6.0\Examen2Poo.AssemblyInfoInputs.cache
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\obj\Debug\net6.0\Examen2Poo.AssemblyInfo.cs
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\obj\Debug\net6.0\Examen2Poo.csproj.CoreCompileInputs.cache
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\obj\Debug\net6.0\Examen2Poo.dll
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\obj\Debug\net6.0\refint\Examen2Poo.dll
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\obj\Debug\net6.0\Examen2Poo.pdb
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\obj\Debug\net6.0\Examen2Poo.genruntimeconfig.cache
+C:\Users\byron\OneDrive\Documentos\GitHub\ExamenPoo_CalderonByron_3A\Examen2Poo\obj\Debug\net6.0\ref\Examen2Poo.dll
